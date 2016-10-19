@@ -1,0 +1,35 @@
+<cookbook>
+  <recipe id="1" name="Tortilla de patatas">
+    <ingredients>
+      <ingredient name="800 gramos de patatas"></ingredient>
+      <ingredient name="6 huevos"></ingredient>
+      <ingredient name="Sal"></ingredient>
+      <ingredient name="Aceite de oliva virgen"></ingredient>
+    </ingredients>
+    <steps>
+      <step id="1" description="Pelar y lavar muy bien las patatas"></step>
+      <step id="2" description="Cortarlas en rodajas"></step>
+      <step id="3" description="Freir las patatas y echarles sal"></step>
+      <step id="4" description="Mezclar huevos batidos con las patatas"></step>
+      <step id="5" description="Cocinarlo a fuego medio para que se cuaje"></step>
+      <step id="6" description="Darle la vuelta a la tortilla y sacarla"></step>
+    </steps>
+  </recipe>
+  <recipe id="2" name="Mojito de fresa y sandía">
+    <ingredients>
+      <ingredient name="1 taza de fresas"></ingredient>
+      <ingredient name="3 tazas de sandía partida"></ingredient>
+      <ingredient name="18 cl. de ron blanco"></ingredient>
+      <ingredient name="6 cl. de zumo de limón"></ingredient>
+      <ingredient name="1 cucharada de azúcar"></ingredient>
+      <ingredient name="15 hojas de hierbabuena"></ingredient>
+    </ingredients>
+    <steps>
+      <step id="1" description="Mezclar el zumo de limón, el azúcar y la hierbabuena"></step>
+      <step id="2" description="Machacar las hojas ligeramente con una cuchara de madera"></step>
+      <step id="3" description="Licuar bien las fresas limpias, la sandía sin pipas y el ron"></step>
+      <step id="4" description="Verter el contenido en un recipiente para terminar de mezclarlo bien"></step>
+      <step id="5" description="Servir en vasos con cubitos de hielo"></step>
+    </steps>
+  </recipe>
+</cookbook>

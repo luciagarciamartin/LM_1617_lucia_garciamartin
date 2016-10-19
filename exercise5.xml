@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UFT-8"?>
+<!DOCTYPE football_games[
+<!ELEMENT football_games (team+)>
+<!ELEMENT team (player+)>
+<!ATTLIST team
+  id ID #REQUIRED>
+<!ELEMENT player (goal?, penalty?)>
+<!ATTLIST player
+  id ID #REQUIRED>
+<!ELEMENT goal (time)>
+<!ELEMENT time (#PCDATA)>
+<!ELEMENT penalty (type)>
+<!ELEMENT type (#PCDATA)>
+]
+<football_games>
+  <team id="home_team">
+    <player id="7">
+      <goal>dos</goal>
+        <time>14' 35'', 47' 54''</time>
+    </player>
+    <player id="21">
+      <penalty>1</penalty>
+        <type>Yellow card</type>
+    </player>
+  </team>
+  <team id="foreign_team">
+    <player id="23">
+      <goal>uno</goal>
+        <time>87' 16''</time>
+    </player>
+    <player id="5">
+      <penalty>2</penalty>
+        <type>Red card</type>
+    </player>
+  </team>
+</football_games>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cateneMontuose[
+<!ELEMENT cateneMontuose (catenaMontuosa*)>
+<!ELEMENT catenaMontuosa (monte+)>
+<!ELEMENT monte (nome,regione?,altezza?)>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT regione (#PCDATA)>
+<!ELEMENT altezza (#PCDATA)>
+<!ATTLIST altezza unitaMisura CDATA #REQUIRED>
+]>
+
+<cateneMontuose>
+  <catenaMontuosa>
+    <monte>
+      <nome>Carpazi</nome>
+      <regione>Alpi</regione>
+    </monte>
+    <monte>
+      <nome>Caucaso</nome>
+      <altezza unitaMisura="5642">
+      </altezza>
+    </monte>
+  </catenaMontuosa>
+</cateneMontuose>

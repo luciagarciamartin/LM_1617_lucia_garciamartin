@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grade_book>
+  <subject name="FOL_1617">
+    <student id="1">
+      <name>"Pepe Flores"</name>
+      <address>C/San Jacinto N-23</address>
+      <telephone>025-416-883</telephone>
+      <grade>5/10</grade>
+    </student>
+    <student id="2">
+      <name>"María Álvarez"</name>
+      <address>C/Virgen de Luján N-30</address>
+      <telephone>562-698-541</telephone>
+      <grade>6/10</grade>
+    </student>
+    <student id="3">
+      <name>"Florentino García"</name>
+      <address>C/Justino Matute N-19</address>
+      <telephone>145-663-977</telephone>
+      <grade>3/10</grade>
+    </student>
+    <student id="4">
+      <name>"Sebastián González"</name>
+      <address>C/Benáldez N-3</address>
+      <telephone>545-632-991</telephone>
+      <grade>8/10</grade>
+    </student>
+    <student id="5">
+      <name>"Angel Belinchon Calleja"</name>
+      <address>C/La Avenida N-28</address>
+      <telephone>500-632-121</telephone>
+      <grade>9/10</grade>
+    </student>
+    <student id="6">
+      <name>"Almudena López"</name>
+      <address>C/República Argentina N-65</address>
+      <telephone>887-963-252</telephone>
+      <grade>6/10</grade>
+    </student>
+    <student id="7">
+      <name>"Carlos Montero"</name>
+      <address>C/Joselitoelgallo N-4</address>
+      <telephone>661-933-454</telephone>
+      <grade>2/10</grade>
+    </student>
+    <student id="8">
+      <name>"Laura Alcántara"</name>
+      <address>C/Santamaría N-8</address>
+      <telephone>484-985-626</telephone>
+      <grade>5/10</grade>
+    </student>
+    <student id="9">
+      <name>"Teresa Pérez"</name>
+      <address>C/Huerta N-77</address>
+      <telephone>747-949-111</telephone>
+      <grade>8/10</grade>
+    </student>
+    <student id="10">
+      <name>"Silvio Sánchez"</name>
+      <address>C/Avenida de la Constitución N-21</address>
+      <telephone>961-45-15-96</telephone>
+      <grade>2/10</grade>
+    </student>
+  </subject>
+  <subject name="LMSGI_1617">
+    <student id="1">
+      <name>"Pepe Flores"</name>
+      <address>C/San Jacinto N-23</address>
+      <telephone>025-416-883</telephone>
+      <grade>60/100</grade>
+    </student>
+    <student id="2">
+      <name>"María Álvarez"</name>
+      <address>C/Virgen de Luján N-30</address>
+      <telephone>562-698-541</telephone>
+      <grade>50/100</grade>
+    </student>
+    <student id="3">
+      <name>"Florentino García"</name>
+      <address>C/Justino Matute N-19</address>
+      <telephone>145-663-977</telephone>
+      <grade>30/100</grade>
+    </student>
+    <student id="4">
+      <name>"Sebastián González"</name>
+      <address>C/Benáldez N-3</address>
+      <telephone>545-632-991</telephone>
+      <grade>80/100</grade>
+    </student>
+    <student id="5">
+      <name>"Angel Belinchon Calleja"</name>
+      <address>C/La Avenida N-28</address>
+      <telephone>500-632-121</telephone>
+      <grade>90/100</grade>
+    </student>
+    <student id="6">
+      <name>"Almudena López"</name>
+      <address>C/República Argentina N-65</address>
+      <telephone>887-963-252</telephone>
+      <grade>30/100</grade>
+    </student>
+    <student id="7">
+      <name>"Carlos Montero"</name>
+      <address>C/Joselitoelgallo N-4</address>
+      <telephone>661-933-454</telephone>
+      <grade>10/100</grade>
+    </student>
+    <student id="8">
+      <name>"Laura Alcántara"</name>
+      <address>C/Santamaría N-8</address>
+      <telephone>484-985-626</telephone>
+      <grade>50/100</grade>
+    </student>
+    <student id="9">
+      <name>"Teresa Pérez"</name>
+      <address>C/Huerta N-77</address>
+      <telephone>747-949-111</telephone>
+      <grade>80/100</grade>
+    </student>
+    <student id="10">
+      <name>"Silvio Sánchez"</name>
+      <address>C/Avenida de la Constitución N-21</address>
+      <telephone>961-45-15-96</telephone>
+      <grade>20/100</grade>
+    </student>
+  </subject>
+</grade_book>
